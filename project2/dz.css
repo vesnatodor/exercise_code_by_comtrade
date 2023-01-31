@@ -1,0 +1,48 @@
+@font-face {
+    font-family: fontjedan;
+    src: url(fonts/Alexandria-VariableFont_wght.ttf);
+    }
+@font-face {
+        font-family: fontdva;
+        src: url(fonts/Roboto-LightItalic.ttf));
+        }
+@font-face {
+            font-family: fonttri;
+            src: url(fonts/Karma-Bold.ttf);
+            }  
+    *{
+        margin: 0px;
+        padding: 0%;
+        box-sizing: border-box;
+    }     
+    .glavni{
+        margin: 30px;
+    }  
+   
+
+.naslov{
+    font-family: fontjedan;
+    background-color: rgba(255, 0, 0, 0.5);
+    padding-left: 190px;
+
+}
+.slika img{
+    margin: 20px;
+    width:50%;
+    padding-left: 320px;
+}
+.paragraf{
+    font-family: fontdva;
+    font-size: 15px;
+    line-height: 26px;
+}
+.citati li{
+    font-family: fonttri;
+    font-size: 25px;
+    list-style-type: none;
+    margin: 20px;
+    line-height: 30px;
+}
+.citati{
+    display: inline-block;
+}
