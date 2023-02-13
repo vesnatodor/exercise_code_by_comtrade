@@ -1,0 +1,16 @@
+body {
+    padding: 30px;
+    background-color: burlywood;
+    /* color: hsl(0, 100%, 50%);
+    color: rgb(255, 0, 0);
+    color: hsla(0, 100%, 50%, 1);
+    color: rgba(255, 0, 0, 1);
+    color: #ff0000;
+    color: red; */
+}
+.nevidljiv {
+    display: none;
+}
+.o_korisniku {
+    text-align: center;
+} 
