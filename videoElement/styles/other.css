@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.video_holder {
+    width: 100%;
+    position: relative;
+}
+video {
+    width: 100%;
+}
+
+    
+.video_holder .video_text {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    z-index: 5;
+    margin-left: 35px;
+    margin-top: 220px;
+}
+.video_holder .video_text p {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+.video_holder h1 {
+    color: #33b6b0;
+    font-size: 30px;
+    text-align: left;
+}
+.video_holder h2 {
+    color: #33b6b0;
+    font-size: 30px;
+    text-align: left;
+}
+
