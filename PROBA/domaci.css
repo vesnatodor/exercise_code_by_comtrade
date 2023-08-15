@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+.naslovprvi{
+    font-size: 40px;
+    display: inline-block;
+}
+.paragrafdrugi{
+    font-size: 15px;
+}
+.edit{
+    display: inline-block;
+    margin-left: 15px;
+}
+.jedan{
+    margin:30px;
+}
+.dva{
+    margin-left: 30px;
+}
+.desnifloat{
+    float: right;
+
+}
+.levifloat{
+    float: left;
+    width: 700px;
+
+}
+.cleaner{
+    clear: both;
+}
